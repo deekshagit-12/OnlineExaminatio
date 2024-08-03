@@ -1,4 +1,4 @@
-# OnlineExaminatio
+# OnlineExamination
 The Online Examination Portal is a comprehensive web application designed to streamline the process of conducting exams, managing question banks, and tracking student performance. The portal caters to three types of users: administrators, teachers, and students, each with specific functionalities tailored to their roles.
 
 # Admin Features:
