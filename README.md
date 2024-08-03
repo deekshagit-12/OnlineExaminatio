@@ -29,6 +29,14 @@ View Marks: Access and review their marks and performance on completed exams.
 ![Screenshot 2024-08-03 190637](https://github.com/user-attachments/assets/82469572-05d1-4aae-ad22-51516d2d7a4c)
 
 
+# Technologies Used
+Frontend: HTML, CSS, JavaScript
+Backend: Django (Python)
+Database: SQLite
+
+This system is designed to ensure a seamless and efficient examination process, making it easy for teachers to administer tests and for students to take them and track their performance.
+
+
 
 
 
